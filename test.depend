@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1608331558 source:c:\users\kh\desktop\projects m2 sei\projet c++\test\main.cpp
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	"porte.h"
+
+1608331558 source:c:\users\kh\desktop\projects m2 sei\projet c++\test\porte.cpp
+	<iostream>
+	"porte.h"
+	<string>
+
+1608331558 c:\users\kh\desktop\projects m2 sei\projet c++\test\porte.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+
+1608332055 source:c:\users\scd um\desktop\test\main.cpp
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	"porte.h"
+
+1608331558 c:\users\scd um\desktop\test\porte.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+
+1608331558 source:c:\users\scd um\desktop\test\porte.cpp
+	<iostream>
+	"porte.h"
+	<string>
+
